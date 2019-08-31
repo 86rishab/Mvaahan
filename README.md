@@ -3,6 +3,7 @@ Implemented Swagger documentation in .Net Core web APIs
 
 
 build command
+=============
 dotnet publish -c Release -o C:\MyWebs\test
 
 docker build 
