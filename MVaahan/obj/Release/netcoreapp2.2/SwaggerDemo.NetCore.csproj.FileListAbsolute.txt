@@ -1,0 +1,14 @@
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\bin\Release\netcoreapp2.2\SwaggerDemo.NetCore.deps.json
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\bin\Release\netcoreapp2.2\SwaggerDemo.NetCore.runtimeconfig.json
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\bin\Release\netcoreapp2.2\SwaggerDemo.NetCore.runtimeconfig.dev.json
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\bin\Release\netcoreapp2.2\SwaggerDemo.NetCore.dll
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\bin\Release\netcoreapp2.2\SwaggerDemo.NetCore.pdb
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.csprojAssemblyReference.cache
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.csproj.CoreCompileInputs.cache
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.RazorAssemblyInfo.cache
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.RazorAssemblyInfo.cs
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.AssemblyInfoInputs.cache
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.AssemblyInfo.cs
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.RazorTargetAssemblyInfo.cache
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.dll
+D:\shivigarg\SwaggerDemo.NetCore\SwaggerDemo.NetCore\obj\Release\netcoreapp2.2\SwaggerDemo.NetCore.pdb

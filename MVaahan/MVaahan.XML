@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MVaahan</name>
+    </assembly>
+    <members>
+        <member name="M:MVaahan.Controllers.ValuesController.Get">
+            <summary>
+            This operation gets the values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MVaahan.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            configure method
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

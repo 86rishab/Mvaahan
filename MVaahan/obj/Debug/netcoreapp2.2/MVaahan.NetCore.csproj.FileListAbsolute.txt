@@ -1,0 +1,5 @@
+D:\shivigarg\Swagger.NetCore\SwaggerDemo.NetCore\obj\Debug\netcoreapp2.2\MVaahan.NetCore.csproj.CoreCompileInputs.cache
+D:\shivigarg\Swagger.NetCore\SwaggerDemo.NetCore\obj\Debug\netcoreapp2.2\MVaahan.NetCore.RazorAssemblyInfo.cache
+D:\shivigarg\Swagger.NetCore\SwaggerDemo.NetCore\obj\Debug\netcoreapp2.2\MVaahan.NetCore.RazorAssemblyInfo.cs
+D:\shivigarg\Swagger.NetCore\SwaggerDemo.NetCore\obj\Debug\netcoreapp2.2\MVaahan.NetCore.AssemblyInfoInputs.cache
+D:\shivigarg\Swagger.NetCore\SwaggerDemo.NetCore\obj\Debug\netcoreapp2.2\MVaahan.NetCore.AssemblyInfo.cs

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MVaahan</name>
+    </assembly>
+    <members>
+        <member name="T:MVaahan.Component.Impl.UserComponent">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MVaahan.Controllers.UserController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MVaahan.Controllers.UserController.Get">
+            <summary>
+            This operation gets the values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MVaahan.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MVaahan.Controllers.UserController.Post(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:MVaahan.Controllers.UserController.Put(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:MVaahan.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="T:MVaahan.Models.User">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MVaahan.Repository.Impl.UserRepo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MVaahan.Repository.Interface.IUserRepo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MVaahan.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            configure method
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

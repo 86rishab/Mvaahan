@@ -1,0 +1,14 @@
+D:\shivigarg\Swagger.NetCore\MVaahan\bin\Release\netcoreapp2.2\MVaahan.deps.json
+D:\shivigarg\Swagger.NetCore\MVaahan\bin\Release\netcoreapp2.2\MVaahan.runtimeconfig.json
+D:\shivigarg\Swagger.NetCore\MVaahan\bin\Release\netcoreapp2.2\MVaahan.runtimeconfig.dev.json
+D:\shivigarg\Swagger.NetCore\MVaahan\bin\Release\netcoreapp2.2\MVaahan.dll
+D:\shivigarg\Swagger.NetCore\MVaahan\bin\Release\netcoreapp2.2\MVaahan.pdb
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.csproj.CoreCompileInputs.cache
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.RazorAssemblyInfo.cache
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.RazorAssemblyInfo.cs
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.AssemblyInfoInputs.cache
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.AssemblyInfo.cs
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.RazorTargetAssemblyInfo.cache
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.dll
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.pdb
+D:\shivigarg\Swagger.NetCore\MVaahan\obj\Release\netcoreapp2.2\MVaahan.csprojAssemblyReference.cache
