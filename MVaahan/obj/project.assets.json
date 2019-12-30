@@ -12364,11 +12364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\shivigarg\\Swagger.NetCore\\MVaahan\\MVaahan.csproj",
+      "projectUniqueName": "C:\\Users\\Rishab\\Documents\\Mvaahan\\MVaahan\\MVaahan.csproj",
       "projectName": "MVaahan",
-      "projectPath": "D:\\shivigarg\\Swagger.NetCore\\MVaahan\\MVaahan.csproj",
+      "projectPath": "C:\\Users\\Rishab\\Documents\\Mvaahan\\MVaahan\\MVaahan.csproj",
       "packagesPath": "C:\\Users\\Rishab\\.nuget\\packages\\",
-      "outputPath": "D:\\shivigarg\\Swagger.NetCore\\MVaahan\\obj\\",
+      "outputPath": "C:\\Users\\Rishab\\Documents\\Mvaahan\\MVaahan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
