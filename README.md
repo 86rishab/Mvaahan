@@ -8,7 +8,7 @@ dotnet publish -c Release -o C:\MyWebs\test
 
 docker build 
 ============
-docker build -t mvaahan .
+docker build -t mvaahan . -f Dockerfile
 
 docker run command
 ==================
